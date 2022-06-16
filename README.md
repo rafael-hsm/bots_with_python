@@ -1,2 +1,5 @@
 # bots_with_python
-Repository to practice exercise from this course: Criando Robôs com Python - Automatizando Processos
+
+Repository to practice exercises from this course: Creating Robots with Python - Automating Processes
+https://www.udemy.com/course/criando-robos-em-python/
+
