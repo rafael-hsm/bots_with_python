@@ -132,3 +132,7 @@ dmypy.json
 .idea
 .vs
 .vscode
+
+# CONFIG
+config.py
+config.ini
